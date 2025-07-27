@@ -1,0 +1,30 @@
+{
+  "name": "CopcatToken",
+  "symbol": "CPC",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "CopcatToken (CPC) is a secure, multichain meme token built on the BNB Chain with advanced protections like anti-bot, anti-sniper, anti-theft, and reentrancy guard. It powers the OrbixVerse ecosystem and rewards real traders.",
+  "website": "https://orbixverse.com",
+  "explorer": "https://bscscan.com/token/0x77D53D91e126d704Cd0C757095d377D9D8688323",
+  "status": "active",
+  "id": "copcat-token",
+  "presale_contract": "0x23aFD6B5BDb18716fb225b477346DAf15BC7900f",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/OrbixVerse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/OrbixVerse"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/OrbixVerse"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://orbixverse.com/copcat-whitepaper.pdf"
+    }
+  ]
+}
